@@ -1,6 +1,3 @@
-![Tim Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=timphamvn33&show_icons=true&theme=algolia)
-
-
 ---
 <h3 align="center">⌨ Languages</h3>
 <div align="center">
@@ -20,5 +17,6 @@
 <a href="https://www.linkedin.com/in/thuong-pham-14442b221/" target="_blank">
   <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/linkedIn_PNG24.png" />
 </a>
-
-
+<a href="https://timphamvn33.github.io/React_Portfolio/" target="_blank">
+  <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/portfolioIcon.jpg" />
+</a>
