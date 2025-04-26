@@ -18,5 +18,5 @@
   <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/linkedIn_PNG24.png" />
 </a>
 <a href="https://timphamvn33.github.io/React_Portfolio/" target="_blank">
-  <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/portfolioIcon.jpg" />
+  <img width="35px" src="https://github.com/timphamvn33/timphamvn33/blob/Tim/icon_languages/portfolio-icon.jpg" />
 </a>
